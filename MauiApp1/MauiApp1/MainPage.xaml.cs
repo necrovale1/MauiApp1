@@ -13,10 +13,11 @@
         {
             count++;
 
+            // interpolação de strings {count}
             if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
+                CounterBtn.Text = $"Clickou {count} vez";
             else
-                CounterBtn.Text = $"Clicked {count} times";
+                CounterBtn.Text = $"Clickou {count} vezes";
 
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
