@@ -1,4 +1,4 @@
-🖱️ Primeiro Projeto MAUI - Contador de Cliques
+# Primeiro Projeto MAUI - Contador de Cliques
 
 📌 Instruções
 Este repositório contém o primeiro projeto criado com o .NET MAUI (Multi-platform App UI). O projeto utiliza o template padrão "Welcome" do MAUI e foi modificado para incluir um botão que conta o número de cliques.
