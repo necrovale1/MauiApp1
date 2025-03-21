@@ -17,5 +17,5 @@ Este repositório contém o primeiro projeto criado com o .NET MAUI (Multi-platf
 
  ## 👩‍🏫 **Equipe de Professores**
 
-- **Prof. Alexkid**
+- **Prof. Alex Machado**
 - **Prof. Benir Falcão**
